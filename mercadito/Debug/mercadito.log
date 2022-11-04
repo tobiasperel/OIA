@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(87,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(119,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(166,39): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(173,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(177,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(177,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(55): warning C4715: 'pedirFormaDePago': not all control paths return a value
+C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Source.cpp(69): warning C4715: 'pedirPosicion': not all control paths return a value
+  mercadito.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\mercadito\Debug\mercadito.exe

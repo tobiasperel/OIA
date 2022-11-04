@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\ORT\programacion\nombresBusca.cpp\Debug\nombresBusca.cpp.exe
+C:\Users\Gaston\Desktop\ORT\programacion\nombresBusca.cpp\Debug\nombresBusca.cpp.pdb

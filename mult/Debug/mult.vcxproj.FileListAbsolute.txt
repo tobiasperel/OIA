@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\programacion\mult\Debug\mult.exe
+C:\Users\Gaston\Desktop\programacion\mult\Debug\mult.pdb

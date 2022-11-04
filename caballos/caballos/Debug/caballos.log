@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Progrmacion\c++\caballos\caballos\Source.cpp(141,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\Progrmacion\c++\caballos\caballos\Source.cpp(146,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Progrmacion\c++\caballos\caballos\Source.cpp(143,16): warning C4101: 'n1': variable local sin referencia
+  caballos.vcxproj -> D:\Progrmacion\c++\caballos\Debug\caballos.exe

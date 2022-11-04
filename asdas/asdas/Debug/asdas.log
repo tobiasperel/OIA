@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Programacion\c++\asdas\asdas\Source.cpp(28,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Programacion\c++\asdas\asdas\Source.cpp(99,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Programacion\c++\asdas\asdas\Source.cpp(100,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Programacion\c++\asdas\asdas\Source.cpp(114,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Programacion\c++\asdas\asdas\Source.cpp(129,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  asdas.vcxproj -> D:\Programacion\c++\asdas\Debug\asdas.exe

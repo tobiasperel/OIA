@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\random\Source.cpp(36,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Gaston\Desktop\ORT\programacion\random\Source.cpp(39,6): warning C4101: 'n': unreferenced local variable
+C:\Users\Gaston\Desktop\ORT\programacion\random\Source.cpp(47): error C4700: uninitialized local variable 'i' used
+C:\Users\Gaston\Desktop\ORT\programacion\random\Source.cpp(52): error C4700: uninitialized local variable 'i' used
+C:\Users\Gaston\Desktop\ORT\programacion\random\Source.cpp(57): error C4700: uninitialized local variable 'i' used

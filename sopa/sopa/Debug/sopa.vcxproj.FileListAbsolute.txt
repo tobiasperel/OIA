@@ -1,0 +1,2 @@
+D:\Progrmacion\c++\sopa\Debug\sopa.exe.lastcodeanalysissucceeded
+D:\Progrmacion\c++\sopa\sopa\Debug\NativeCodeAnalysis.read.1.tlog

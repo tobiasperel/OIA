@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\alfajores\Source.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\alfajores\Source.cpp(114,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Gaston\Desktop\ORT\programacion\alfajores\Source.cpp(122,18): warning C4101: 'precioFijo': unreferenced local variable
+  alfajores.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\alfajores\Debug\alfajores.exe

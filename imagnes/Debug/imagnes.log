@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\imagnes\Source.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gaston\Desktop\ORT\programacion\imagnes\Source.cpp(47,19): warning C4018: '<': signed/unsigned mismatch
+  imagnes.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\imagnes\Debug\imagnes.exe

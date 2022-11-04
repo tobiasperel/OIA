@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\ORT\programacion\pratica.cpp\Debug\pratica.cpp.exe
+C:\Users\Gaston\Desktop\ORT\programacion\pratica.cpp\Debug\pratica.cpp.pdb

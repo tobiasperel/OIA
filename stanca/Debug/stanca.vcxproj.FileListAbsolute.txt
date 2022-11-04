@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\programacion\stanca\Debug\stanca.exe
+C:\Users\Gaston\Desktop\programacion\stanca\Debug\stanca.pdb

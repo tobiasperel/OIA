@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Progrmacion\c++\barkito\barkito\Source.cpp(118,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  barkito.vcxproj -> D:\Progrmacion\c++\barkito\Debug\barkito.exe

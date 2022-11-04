@@ -1,0 +1,13 @@
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.exe
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.deps.json
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.runtimeconfig.json
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.runtimeconfig.dev.json
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.dll
+D:\Progrmacion\c++\carrera\carrera\bin\Debug\netcoreapp3.1\carrera.pdb
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.csprojAssemblyReference.cache
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.AssemblyInfoInputs.cache
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.AssemblyInfo.cs
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.csproj.CoreCompileInputs.cache
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.dll
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.pdb
+D:\Progrmacion\c++\carrera\carrera\obj\Debug\netcoreapp3.1\carrera.genruntimeconfig.cache

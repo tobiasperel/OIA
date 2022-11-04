@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Progrmacion\c++\generala2\generala2\Source.cpp(82,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\Progrmacion\c++\generala2\generala2\Source.cpp(83,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  generala2.vcxproj -> D:\Progrmacion\c++\generala2\Debug\generala2.exe

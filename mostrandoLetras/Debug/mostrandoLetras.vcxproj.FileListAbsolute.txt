@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\ORT\programacion\mostrandoLetras\Debug\mostrandoLetras.exe
+C:\Users\Gaston\Desktop\ORT\programacion\mostrandoLetras\Debug\mostrandoLetras.pdb

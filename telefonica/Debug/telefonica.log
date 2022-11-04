@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(59,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(61,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(92,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(93,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(106,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(131,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(132,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Source.cpp(133,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  telefonica.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\telefonica\Debug\telefonica.exe

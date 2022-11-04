@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\ORT\programacion\grafo bicolor\Debug\grafo bicolor.exe
+C:\Users\Gaston\Desktop\ORT\programacion\grafo bicolor\Debug\grafo bicolor.pdb

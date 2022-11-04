@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\numeros romanos\Source.cpp(37,22): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Gaston\Desktop\ORT\programacion\numeros romanos\Source.cpp(120,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  numeros romanos.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\numeros romanos\Debug\numeros romanos.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Progrmacion\c++\laland\laland\Source.cpp(28,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\laland\laland\Source.cpp(99,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\laland\laland\Source.cpp(100,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\laland\laland\Source.cpp(113,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\laland\laland\Source.cpp(128,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  laland.vcxproj -> D:\Progrmacion\c++\laland\Debug\laland.exe

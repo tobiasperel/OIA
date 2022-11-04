@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\programacion\yo\Source.cpp(32,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Gaston\Desktop\programacion\yo\Source.cpp(35,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Gaston\Desktop\programacion\yo\Source.cpp(41,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Gaston\Desktop\programacion\yo\Source.cpp(63,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  yo.vcxproj -> C:\Users\Gaston\Desktop\programacion\yo\Debug\yo.exe

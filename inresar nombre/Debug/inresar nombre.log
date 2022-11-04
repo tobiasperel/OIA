@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaston\Desktop\ORT\programacion\inresar nombre\Source.cpp(42,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gaston\Desktop\ORT\programacion\inresar nombre\Source.cpp(58,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  inresar nombre.vcxproj -> C:\Users\Gaston\Desktop\ORT\programacion\inresar nombre\Debug\inresar nombre.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Progrmacion\c++\trabajo0\trabajo0\Source.cpp(101,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\trabajo0\trabajo0\Source.cpp(102,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Progrmacion\c++\trabajo0\trabajo0\Source.cpp(115,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  trabajo0.vcxproj -> D:\Progrmacion\c++\trabajo0\Debug\trabajo0.exe

@@ -1,0 +1,2 @@
+C:\Users\Gaston\Desktop\programacion\virus\Debug\virus.exe
+C:\Users\Gaston\Desktop\programacion\virus\Debug\virus.pdb
